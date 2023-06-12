@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -g CMakeFiles/parcat.dir/parcat.cpp.o -o ../../../../bin/umake/gcc-11.3/x86_64/debug/parcat 
